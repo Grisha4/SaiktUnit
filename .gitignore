@@ -3,3 +3,9 @@
 ################################################################################
 
 /MathOperations.Lib/bin/Debug/netcoreapp3.1
+/MathOperations.Lib/obj
+/MathOperations.Test/.vs/MathOperations.Test/v16
+/MathOperations.Test/bin/Debug/netcoreapp3.1
+/MathOperations.Test/obj
+/SaiktUnit/.vs/SaiktUnit
+/SaiktUnit/MathOperations.Lib/obj
